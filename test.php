@@ -6,6 +6,7 @@
             echo '<p>Hola mundo</p>';
             echo '<br>';
             echo '<p>Mi primer programa en PHP</p>';
+            echo 'test para github';
         ?> 
     </body>
 </html>
