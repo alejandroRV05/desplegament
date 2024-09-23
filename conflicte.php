@@ -8,6 +8,5 @@ function sumar($a, $b) {
 $resultado = sumar(5, 3);
 echo "\nLa suma de 5 y 3 es: " . $resultado;
 
-echo "\n¡Gracias por visitar!";
-
+echo "\n¡Vuelve pronto!";
 ?>
